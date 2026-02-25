@@ -16,3 +16,5 @@ Para que parezca un videojuego, cerramos el pasillo y agregamos una superficie b
 
 * Paso 5: Iluminación Básica (Tema 4.2)
 Un escenario de videojuego no está completo sin luz.
+
+<img width="329" height="399" alt="image" src="https://github.com/user-attachments/assets/a934f87e-399f-47d4-944e-9666beeba951" />
